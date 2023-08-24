@@ -1,11 +1,13 @@
 # Equipo_3
 
-#Team repository
+# Team repository
 
-##Diego
+## Diego
 
-##JP Narchi
+## JP Narchi
 
-##Diego Julian
+## Diego Julian
 
-##Hector 
+## Hector 
+
+## Gil
