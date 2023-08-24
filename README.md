@@ -8,6 +8,8 @@
 
 ## Diego Julian
 
+$E = mc^2$
+
 ## Hector 
 
 ## Gil
