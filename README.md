@@ -5,7 +5,9 @@
 ## Diego
 
 ## JP Narchi
+Formula de pitagoras
 
+$ c = \sqrt{a^2 + b^2}$
 ## Diego Julian
 
 $E = mc^2$
